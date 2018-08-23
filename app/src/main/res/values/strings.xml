@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android_First</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="registration">Registration</string>
+    <string name="FirstName">FirstName</string>
+    <string name="LastName">LastName</string>
+    <string name="Username">Username</string>
+    <string name="registrater">Register</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Login">Login</string>
+</resources>
